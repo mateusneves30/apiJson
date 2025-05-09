@@ -1,0 +1,20 @@
+{
+  "pedidos": [
+    {
+      "id": 1,
+      "nome_cliente": "Ana",
+      "sabor": "chocolate",
+      "quantidade": 2,
+      "status": "Pendente",
+      "criado_em": "2025-05-09T14:00:00"
+    },
+    {
+      "id": 2,
+      "nome_cliente": "Lucas",
+      "sabor": "queijo",
+      "quantidade": 1,
+      "status": "Pronto",
+      "criado_em": "2025-05-09T14:05:00"
+    }
+  ]
+}
